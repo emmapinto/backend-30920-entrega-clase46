@@ -1,13 +1,13 @@
 # Desafio entregable 46: Servidor con NestJS
 Desafío entregable para el curso de backend de Coderhouse
 
-## Para probar el código:
+## Instrucciones para bajar el repo:
 
 ```bash
 # Clonar el repositorio
 $ git clone https://github.com/emmapinto/backend-30920-entrega-clase46.git
 
-# Instalar la linea de comandos de nest (en caso de no tenerla ya)
+# Instalar nest
 $ npm install -g @nestjs/cli
 
 # Instalar dependencias
